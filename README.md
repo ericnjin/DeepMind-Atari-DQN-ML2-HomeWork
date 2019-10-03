@@ -12,10 +12,6 @@ https://deepmind.com/research/publications/playing-atari-deep-reinforcement-lear
 8. Skimage
 9. h5py
 
-### 설치 방법 (Install Requirements)
-```
-pip install -r requirements.txt
-```
 
 
 ## 참조 자료 
