@@ -18,14 +18,27 @@ pip install -r requirements.txt
 ```
 
 
-## 목차 (Table of Contents)
+## 참조 자료 
 
-**CartPole** - 카트폴 예제를 이용하여 여러가지 딥러닝을 강화학습에 응용한 알고리즘들을 적용해보기
+http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/
 
-- [Deep Q Network](./2-cartpole/1-dqn)
-- [Actor Critic (A2C)](./2-cartpole/2-actor-critic)
+https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 
-**Atari 브레이크아웃** - 딥러닝을 응용하여 좀더 복잡한 Atari 브레이크아웃 게임을 마스터하는 에이전트 만들기
+http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf
 
-- [Deep Q Network](./3-atari/1-breakout/breakout_dqn.py)
-- [Asynchronous Advantage Actor Critic(A3C)](./3-atari/1-breakout/breakout_a3c.py)
+http://llcao.net/cu-deeplearning15/presentation/DeepMindNature-preso-w-David-Silver-RL.pdf
+
+http://www0.cs.ucl.ac.uk/staff/d.silver/web/Resources_files/deep_rl.pdf
+
+https://www.youtube.com/watch?v=V7_cNTfm2i8&feature=youtu.be&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS
+
+
+**논문요약** 
+
+- [Deep Q Network]
+- [Actor Critic (A2C)]
+
+**프로그램 실행 방법** -
+
+- 
+- 
