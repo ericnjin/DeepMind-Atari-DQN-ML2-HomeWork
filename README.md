@@ -14,17 +14,24 @@ https://deepmind.com/research/publications/playing-atari-deep-reinforcement-lear
 
 ## 참조 자료 
 http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/
+
 https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+
 http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf
+
 http://llcao.net/cu-deeplearning15/presentation/DeepMindNature-preso-w-David-Silver-RL.pdf
+
 http://www0.cs.ucl.ac.uk/staff/d.silver/web/Resources_files/deep_rl.pdf
+
 https://www.youtube.com/watch?v=V7_cNTfm2i8&feature=youtu.be&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS
+
 http://sanghyukchun.github.io/74/ 
+
 http://arxiv.org/pdf/cs/0308031.pdf
 
 
 ## 논문요약 
-**Abstract
+###Abstract
 * First deep learning model using reinforcement learning
 - Successfully learn control policies directly
 - From high-dimensional sensory input (pixels)  (환경에서 나오는 정보 즉, 게임화면에서 나오는 [가로픽셀수] * [세로픽셀수] * [3 RGB] ) 
@@ -38,7 +45,7 @@ http://arxiv.org/pdf/cs/0308031.pdf
 - Surpasses a human expert on three games
 
 
-**1. Intrduction
+###1. Intrduction
 *Challenge 
 Most DL requires hand labeled training data
 - RL must learn from a scalar reward signal
@@ -54,7 +61,7 @@ Most DL requires hand labeled training data
 - Experience replay
 
 
-**2. Background
+###2. Background
 * 환경(Environment)에 대한 순차적 행동결정이있고 그것은 MDP(Markov Decision Process)로 정의 한다고 가정
 * MDP have five features
 1. State : Agent 자신의 상황에 대한 관 
