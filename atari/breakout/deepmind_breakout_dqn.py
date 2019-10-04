@@ -11,7 +11,7 @@ import numpy as np
 import random
 import gym
 
-EPISODES = 50000
+CONST_EPISODES = 50000
 
 
 # 브레이크아웃에서의 DQN 에이전트
@@ -176,7 +176,7 @@ if __name__ == "__main__":
 
     scores, episodes, global_step = [], [], 0
 
-    for e in range(EPISODES):
+    for e in range(CONST_EPISODES):
         done = False
         dead = False
 
