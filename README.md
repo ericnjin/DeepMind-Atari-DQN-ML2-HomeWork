@@ -85,5 +85,6 @@ randomly draw하여 mini-batch를 구성하고 update하는 방법 , data usage 
 
 **프로그램 실행 방법** -
 
-- 
+- ~DeepMind-Atari-DQN-ML2-HomeWork/atari/breakout/ python3 deepmind_breakout_dqn.py 
+ 
 - 
